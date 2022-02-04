@@ -1,0 +1,26 @@
+h1 {
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+
+.ip_div {
+}
+
+.redis {
+    border-top: 3px solid black;
+    padding-top: 10px;
+
+}
+
+.redis_data {
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 400px;
+}
